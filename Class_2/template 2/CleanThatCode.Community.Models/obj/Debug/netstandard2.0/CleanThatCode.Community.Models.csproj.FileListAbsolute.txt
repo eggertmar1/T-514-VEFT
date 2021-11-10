@@ -1,0 +1,10 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/bin/Debug/netstandard2.0/CleanThatCode.Community.Models.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/bin/Debug/netstandard2.0/CleanThatCode.Community.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/bin/Debug/netstandard2.0/CleanThatCode.Community.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/obj/Debug/netstandard2.0/CleanThatCode.Community.Models.pdb

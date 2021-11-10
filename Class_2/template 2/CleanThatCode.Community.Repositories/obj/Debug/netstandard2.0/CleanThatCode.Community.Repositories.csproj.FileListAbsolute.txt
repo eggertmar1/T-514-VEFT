@@ -1,0 +1,13 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/bin/Debug/netstandard2.0/CleanThatCode.Community.Repositories.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/bin/Debug/netstandard2.0/CleanThatCode.Community.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/bin/Debug/netstandard2.0/CleanThatCode.Community.Repositories.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/bin/Debug/netstandard2.0/CleanThatCode.Community.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/bin/Debug/netstandard2.0/CleanThatCode.Community.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/obj/Debug/netstandard2.0/CleanThatCode.Community.Repositories.pdb

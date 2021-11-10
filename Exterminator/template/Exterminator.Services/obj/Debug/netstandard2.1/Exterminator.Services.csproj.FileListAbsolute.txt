@@ -1,0 +1,15 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Services.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Services.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/bin/Debug/netstandard2.1/Exterminator.Repositories.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Services/obj/Debug/netstandard2.1/Exterminator.Services.pdb

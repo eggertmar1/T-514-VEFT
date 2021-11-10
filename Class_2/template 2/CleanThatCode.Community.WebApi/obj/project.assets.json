@@ -1,0 +1,136 @@
+{
+  "version": 3,
+  "targets": {
+    "net5.0": {
+      "CleanThatCode.Community.Models/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Models.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Repositories/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Repositories.dll": {}
+        }
+      },
+      "CleanThatCode.Community.Services/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "dependencies": {
+          "CleanThatCode.Community.Models": "1.0.0",
+          "CleanThatCode.Community.Repositories": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/CleanThatCode.Community.Services.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/CleanThatCode.Community.Services.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CleanThatCode.Community.Models/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+    },
+    "CleanThatCode.Community.Repositories/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+    },
+    "CleanThatCode.Community.Services/1.0.0": {
+      "type": "project",
+      "path": "../CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+      "msbuildProject": "../CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net5.0": [
+      "CleanThatCode.Community.Models >= 1.0.0",
+      "CleanThatCode.Community.Repositories >= 1.0.0",
+      "CleanThatCode.Community.Services >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "/Users/eggertsigtryggsson/.nuget/packages/": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.WebApi/CleanThatCode.Community.WebApi.csproj",
+      "projectName": "CleanThatCode.Community.WebApi",
+      "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.WebApi/CleanThatCode.Community.WebApi.csproj",
+      "packagesPath": "/Users/eggertsigtryggsson/.nuget/packages/",
+      "outputPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.WebApi/obj/",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "/Users/eggertsigtryggsson/.nuget/NuGet/NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net5.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net5.0": {
+          "targetAlias": "net5.0",
+          "projectReferences": {
+            "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj": {
+              "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Models/CleanThatCode.Community.Models.csproj"
+            },
+            "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj": {
+              "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Repositories/CleanThatCode.Community.Repositories.csproj"
+            },
+            "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj": {
+              "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net5.0": {
+        "targetAlias": "net5.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.AspNetCore.App": {
+            "privateAssets": "none"
+          },
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

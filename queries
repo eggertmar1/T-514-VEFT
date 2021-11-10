@@ -1,0 +1,153 @@
+
+query filmCount {
+  allFilms {
+    totalCount
+  }
+}
+
+# Get the title, director and release date for all films
+
+query allFilms {
+  allFilms{
+  	films {
+  	  title
+      director
+      releaseDate
+  	}
+  }
+}
+
+# Get the title and release date of the last three films
+
+query lastThree {
+  allFilms(last: 3) {
+    films {
+      title 
+      releaseDate
+    }
+  }
+}
+
+# Get the id, title and opening crawl of a film which has the id ZmlsbXM6MQ==s
+query getById {
+  film(id: "ZmlsbXM6MQ==s") {
+    id
+    title
+    openingCrawl
+  }
+}
+
+# Get the name, designation, average height and average 
+# lifespan of each species in the movie The Empire Strikes Back
+
+query getEmpire {
+	film(id:"ZmlsbXM6Mg==") {
+    title
+    speciesConnection {
+      species {
+        name
+        designation
+        averageHeight 
+        averageLifespan
+      }
+    } 
+  }
+} # TODO: Finish this 
+
+# Get the name, terrain and associated film title for every planet
+
+query planet {
+  allPlanets{
+		planets {
+      name
+      terrains
+      filmConnection {
+        edges {
+          node {
+            title
+          }
+        }
+      }
+    }
+  }
+}
+
+# For all starships, get their name, pilot names and the name of the home world for each pilot associated with the starship
+
+query starhipDetail {
+  allStarships {
+    starships {
+      name 
+      pilotConnection {
+        edges {
+          node {
+            homeworld {
+            	name
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+# For all species, get their name and each persons name and eye color which is a part of that species
+
+query species {
+  allSpecies {
+    species{
+      name 
+      personConnection {
+        edges {
+          node {
+            name
+            eyeColor
+          }
+        }
+      }
+    }
+  }
+}
+
+# For all species, get their name and each persons
+# name and hair color which is a part of that species 
+# and for each person which is a part of that species get the 
+# name, model, vehicle class and manufacturer for each vehicle 
+# associated with them
+
+query specDetail {
+  allSpecies {
+    species {
+      name 
+      personConnection {
+        edges {
+          node {
+            name
+            hairColor
+            vehicleConnection {
+              edges {
+                node {
+                  name 
+                  model 
+                  vehicleClass
+                  manufacturers
+                }
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}
+
+query darth {
+  person(id:"cGVvcGxlOjQ=")  {
+    name
+    birthYear
+    height
+    mass
+  }
+}
+
+

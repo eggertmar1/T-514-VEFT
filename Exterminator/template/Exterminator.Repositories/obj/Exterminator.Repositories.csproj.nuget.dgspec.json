@@ -1,0 +1,136 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/Exterminator.Repositories.csproj": {}
+  },
+  "projects": {
+    "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/Exterminator.Models.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/Exterminator.Models.csproj",
+        "projectName": "Exterminator.Models",
+        "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/Exterminator.Models.csproj",
+        "packagesPath": "/Users/eggertsigtryggsson/.nuget/packages/",
+        "outputPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eggertsigtryggsson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Newtonsoft.Json": {
+              "target": "Package",
+              "version": "[13.0.1, )"
+            },
+            "System.ComponentModel.Annotations": {
+              "target": "Package",
+              "version": "[5.0.0, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    },
+    "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/Exterminator.Repositories.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/Exterminator.Repositories.csproj",
+        "projectName": "Exterminator.Repositories",
+        "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/Exterminator.Repositories.csproj",
+        "packagesPath": "/Users/eggertsigtryggsson/.nuget/packages/",
+        "outputPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/eggertsigtryggsson/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.1"
+        ],
+        "sources": {
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.1": {
+            "targetAlias": "netstandard2.1",
+            "projectReferences": {
+              "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/Exterminator.Models.csproj": {
+                "projectPath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/Exterminator.Models.csproj"
+              }
+            }
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.1": {
+          "targetAlias": "netstandard2.1",
+          "dependencies": {
+            "Microsoft.EntityFrameworkCore.Design": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            },
+            "Microsoft.EntityFrameworkCore.Sqlite": {
+              "target": "Package",
+              "version": "[5.0.9, )"
+            }
+          },
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "NETStandard.Library": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/5.0.400/RuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}

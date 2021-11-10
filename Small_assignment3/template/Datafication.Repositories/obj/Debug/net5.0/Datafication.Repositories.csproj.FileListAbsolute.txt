@@ -1,0 +1,15 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/Datafication.Repositories.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/Datafication.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/ref/Datafication.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/Datafication.Repositories.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/Datafication.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/bin/Debug/net5.0/Datafication.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/ref/Datafication.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Repositories/obj/Debug/net5.0/Datafication.Repositories.pdb

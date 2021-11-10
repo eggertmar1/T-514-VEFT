@@ -1,0 +1,17 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Services.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/ref/Datafication.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Services.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/bin/Debug/net5.0/Datafication.Repositories.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/ref/Datafication.Services.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Small_assignment3/template/Datafication.Services/obj/Debug/net5.0/Datafication.Services.pdb

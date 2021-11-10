@@ -1,0 +1,8 @@
+docker run hello-world 
+
+docker build . -t eggert/donuts-web
+docker run -d -p 9000:5000 eggert/donuts-web 
+docker exec -it 8016cc6b0c1217fbc9233208bdb5e6e86a41813049176f3107360b150c444132 /bin/bash
+cd data 
+node seed.js --> crashes for some reason. 
+https://hub.docker.com/repository/docker/eggerte19/donuts

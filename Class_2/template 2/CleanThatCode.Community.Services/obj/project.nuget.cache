@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "aobzckJqBjzcfzq0UMo8WMTnQxH+aGWo/q165yg8YyIV+hVPrqLmWBFtlA/8v25c5gt9u9WVlDevw1wW6GBwTw==",
+  "success": true,
+  "projectFilePath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/Class_2/template 2/CleanThatCode.Community.Services/CleanThatCode.Community.Services.csproj",
+  "expectedPackageFiles": [
+    "/Users/eggertsigtryggsson/.nuget/packages/microsoft.netcore.platforms/1.1.0/microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "/Users/eggertsigtryggsson/.nuget/packages/netstandard.library/2.0.3/netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

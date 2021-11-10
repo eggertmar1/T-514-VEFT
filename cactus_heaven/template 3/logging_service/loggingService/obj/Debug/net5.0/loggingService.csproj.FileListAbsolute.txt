@@ -1,0 +1,17 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/loggingService.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/loggingService.runtimeconfig.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/loggingService.runtimeconfig.dev.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/loggingService.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/ref/loggingService.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/loggingService.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/bin/Debug/net5.0/RabbitMQ.Client.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/ref/loggingService.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/obj/Debug/net5.0/loggingService.genruntimeconfig.cache

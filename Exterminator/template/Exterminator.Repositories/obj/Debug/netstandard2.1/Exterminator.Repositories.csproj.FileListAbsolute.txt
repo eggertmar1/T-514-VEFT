@@ -1,0 +1,13 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/bin/Debug/netstandard2.1/Exterminator.Repositories.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/bin/Debug/netstandard2.1/Exterminator.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/bin/Debug/netstandard2.1/Exterminator.Repositories.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/bin/Debug/netstandard2.1/Exterminator.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/bin/Debug/netstandard2.1/Exterminator.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.csproj.CopyComplete
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Repositories/obj/Debug/netstandard2.1/Exterminator.Repositories.pdb

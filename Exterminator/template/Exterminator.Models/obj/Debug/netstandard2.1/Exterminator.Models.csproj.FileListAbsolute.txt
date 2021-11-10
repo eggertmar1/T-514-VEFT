@@ -1,0 +1,10 @@
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/bin/Debug/netstandard2.1/Exterminator.Models.deps.json
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/bin/Debug/netstandard2.1/Exterminator.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/bin/Debug/netstandard2.1/Exterminator.Models.pdb
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.csproj.AssemblyReference.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.GeneratedMSBuildEditorConfig.editorconfig
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.AssemblyInfoInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.AssemblyInfo.cs
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.csproj.CoreCompileInputs.cache
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.dll
+/Users/eggertsigtryggsson/Documents/Vefþjónustur/Exterminator/template/Exterminator.Models/obj/Debug/netstandard2.1/Exterminator.Models.pdb

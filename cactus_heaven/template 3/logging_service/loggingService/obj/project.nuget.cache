@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "IHUbmSIUzfh4Ry/HFooqm5tYoVT9xIIGJXHu58jChPTQaFlybzuzaJ5H9x4aKPUnq/yenawL6BDrbGBGbdC6nQ==",
+  "success": true,
+  "projectFilePath": "/Users/eggertsigtryggsson/Documents/Vefþjónustur/cactus_heaven/template 3/logging_service/loggingService/loggingService.csproj",
+  "expectedPackageFiles": [
+    "/Users/eggertsigtryggsson/.nuget/packages/rabbitmq.client/6.2.2/rabbitmq.client.6.2.2.nupkg.sha512",
+    "/Users/eggertsigtryggsson/.nuget/packages/system.memory/4.5.4/system.memory.4.5.4.nupkg.sha512",
+    "/Users/eggertsigtryggsson/.nuget/packages/system.threading.channels/4.7.1/system.threading.channels.4.7.1.nupkg.sha512"
+  ],
+  "logs": []
+}
